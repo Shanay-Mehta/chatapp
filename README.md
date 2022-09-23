@@ -1,1 +1,1 @@
-# chatapp
+# chatapp for DevSoc core review
